@@ -1,0 +1,6 @@
+devid=oeloeloel
+devtitle=Oel
+gameid=teenytiny-samplegame
+gametitle=TeenyTiny DragonRuby MiniGameJam SampleGame
+version=0.1
+icon=metadata/teentinyyrubylogo.png
